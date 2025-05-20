@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Walter Moreira. Mathematician and Software Engineer,
   specializing in formal methods and functional programming.
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: waltermoreira.github.io
-url: "https://waltermoreira.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: waltermoreira.net
+url: "https://waltermoreira.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
