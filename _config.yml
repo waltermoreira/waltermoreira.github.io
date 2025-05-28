@@ -26,9 +26,14 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima@0b7ca6bbdb782a646f8e7b78b1a29fd5032ad4d3
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
